@@ -1,0 +1,55 @@
+.backround{
+    background-image: url("images/20220311_152418.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+
+
+
+}
+
+
+
+.headding{
+   text-align: center;
+ color: rgb(11, 12, 12);
+}
+
+
+
+a{  font-size: medium;
+    font-weight: bold;
+    background-color: gray;
+    display:block ;     
+}
+
+
+
+.items{
+    display: none ;
+}
+.dog{
+    display: inline-block;
+}
+.cards{
+    align-content: center;
+    text-align: center;
+}
+
+.frame{
+    background-color: purple;
+    height: 75px;
+}
+
+
+
+.dropdown{
+display: inline-block;
+background-color: transparent;
+height: 50px;
+width: 75px;
+margin-top: 20px;
+margin-left: 20px;
+margin-right: 20px;
+}
